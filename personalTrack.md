@@ -1,5 +1,32 @@
 # Personal Learning Track
 
+## 2026-07-06 
+- Setting up orcale 
+- Go to the hospital
+-Practice english
+
+## 2026-07-05
+- Attending my friend's engagement ceremony and wedding
+
+## 2026-07-04
+- Listening to english with no substion 
+- Setting up oracle 
+- Solve 3 leetcode problems to review about PL/SQL 
+
+## 2026-07-03
+- Research about web crawling : process, stored data 
+- Setting up again Oracle : clean up old version and unused data.
+
+## 2026-07-02
+- Update CV 
+
+## 2026-07-01
+- protecting thesis 
+
+## 2026-06-30
+- Preparing for the Thesis Presentation and Defense
+
+
 ## 2026-06-29
 - Completing tasks in company for handing over.
 - Rewrite CV. 
