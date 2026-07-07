@@ -1,0 +1,588 @@
+[
+  {
+    "title": "Senior Java Developer Spring/OOP",
+    "company": "Nakivo",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5MTk2LCJwdXIiOiJibG9iX2lkIn19--bceea6d3244169111f1344425f9c11dc02e70eb5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/nakivo-logo.jpg",
+    "location": [
+      {
+        "street": "TGI Building, 208 Nguyen Trai",
+        "city": "Quận 1",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": 2000,
+      "max": 2500,
+      "unit": "MONTH",
+      "text": "2,000 - 2,500 USD"
+    },
+    "skills": "Java, OOP, Spring",
+    "employment_type": "FULL_TIME",
+    "experience_required": 37,
+    "description": "Top 3 Reasons To Join Us\r\nFlexible working hour\r\nPrivate health care insurance \r\nPremium annual health care check\r\nThe JobWe are looking for a person, who can:● Designing and estimating feature architecture based on the written specification.● Implementing features full-stack (Java backend + ExtJS frontend + database migrations)● Ensuring code quality through testing and code review● Working independently with minimum guidanceYour Skills and ExperienceYou properly are a potential candidate for this position, if you have:● Able to use AI tools to accelerate development● Strong understanding of object-oriented design patterns.● Fluency in Java 8+ and the related ecosystem.● Solid experience with Spring Framework (dependency injection, transactions, security, scheduling)● Solid experience with Hibernate/JPA (entity mapping, lazy/eager loading, cascading, HQL/JPQL)● Good at JavaScript, HTML, and CSS.● Strong SQL skills and experience with database migration tools (Liquibase or Flyway)● Experience with multi-threaded / concurrent programming● Experience with Gradle or Maven build systems● Able to quickly learn and work with new APIs, SDKs.● Able to follow existing code standards.● Able to write modules, clean and well-tested code.● At least 5 years of experience in a relevant position.● Intermediate+ English (reading specs, writing documentation, team communication)● At least 1 year of mentoring, training, or managing experience.You would be a strong candidate, if you have one of these following:● Knowledge of virtualization concepts (VMs, snapshots, replication, hypervisor APIs)● Experience with Linux administration and bash scripting● Familiarity with PowerShell for Windows automation● Experience with network programming (sockets, SSH, HTTP clients)● Experience with SVN, Jira, and Confluence● IntelliJ IDEA or VSCode● Experience with large monolithic Java codebasesWhy You'll Love Working HereThe Nakivo team in Vietnam has been changing very fast in the recent years, we have grown from a group of 6 engineers to the current team size of 80 and we are expecting to grow even more in the next following years.We welcome and embrace people, regardless of their background, religion, nationality or gender, but focus on diversity, contribution, determination and work ethic. At Nakivo, we are trying to improve everyday, to become a competitive choice for talented people, by offeringFlexible working hours: Office opens from 6.00 AM to 10.00 PMPrivate health care packagePremium health care checkGift (cash/voucher) for every special occasion: New Year's Eve, Tet holidays, International Women's Day, International Children's Day, Mid-Autumn Festival and Birthday15-18 annual leaves/year, 5 sick leaves and additional leaves (up to 3 days)Team buildingFree and un-limited snack, tea, coffee and by-choice request.",
+    "benefits": "The Nakivo team in Vietnam has been changing very fast in the recent years, we have grown from a group of 6 engineers to the current team size of 80 and we are expecting to grow even more in the next following years.We welcome and embrace people, regardless of their background, religion, nationality or gender, but focus on diversity, contribution, determination and work ethic. At Nakivo, we are trying to improve everyday, to become a competitive choice for talented people, by offeringFlexible working hours: Office opens from 6.00 AM to 10.00 PMPrivate health care packagePremium health care checkGift (cash/voucher) for every special occasion: New Year's Eve, Tet holidays, International Women's Day, International Children's Day, Mid-Autumn Festival and Birthday15-18 annual leaves/year, 5 sick leaves and additional leaves (up to 3 days)Team buildingFree and un-limited snack, tea, coffee and by-choice request.",
+    "date_posted": "2026-07-07",
+    "valid_through": "2026-08-11",
+    "url": "https://itviec.com/it-jobs/senior-java-developer-spring-oop-nakivo-2623",
+    "source": "itviec"
+  },
+  {
+    "title": "Fullstack Developer PHP/Laravel, E-commerce",
+    "company": "The One Digi Corp",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAzMDE4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--118c59b8b0bd7ea99a846cdcfd80617d499d4f76/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/z6506673551083_e9f3bbaaf47c49b0344c63da3538fe04%20-%20Vuong%20Tran.jpg",
+    "location": [
+      {
+        "street": "40 Thien Phuoc",
+        "city": "Quận Tân Bình",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": 900,
+      "max": 1500,
+      "unit": "MONTH",
+      "text": "900 - 1,500 USD"
+    },
+    "skills": "PHP, Cloud, Python, NextJS, Laravel",
+    "employment_type": "FULL_TIME",
+    "experience_required": 10,
+    "description": "Top 3 Reasons To Join Us\r\nLương cạnh tranh\r\nMôi trường làm việc trẻ, thân thiện, chuyên nghiệp\r\nMáy móc thiết bị tốt để phục vụ cho công việc\r\nThe JobTrực tiếp tham gia phát triển và maintain hệ thống Web/App (Frontend + Backend).Phân tích yêu cầu, đề xuất giải pháp kỹ thuật phù hợp với từng bài toán thực tế.Tham gia thiết kế cấu trúc hệ thống, phối hợp chia module chức năng rõ ràng cùng team.Tham gia review code, đảm bảo chất lượng và tính nhất quán của toàn hệ thống.Hỗ trợ triển khai và vận hành hệ thống trên Cloud, từng bước làm quen với Cloudflare (DNS, CDN, caching, bảo mật).Your Skills and ExperienceƯu tiên ứng viên tốt nghiệpĐại học Quốc giachuyên ngành Công nghệ Thông tin hoặc tương đương.Có tối thiểu 3 năm kinh nghiệm phát triển Web/App.Thành thạo ít nhất một tech stack:PHP/Laravel, Node.js/React, .NET, Python hoặc tương đương.Có khả năng estimate task và theo dõi tiến độ công việc cá nhân.Có kinh nghiệm hoặc sẵn sàng tìm hiểu về Cloud/Cloudflare là lợi thế.Tư duy hệ thống, chủ động, trách nhiệm cao, có tinh thần học hỏi và phối hợp tốt với team.Why You'll Love Working HereĐóng BHXH, BHYT và Thuế thu nhập cá nhân theo đúng chính sách của nhà nướcChương trình Team building/ Company trip mỗi nămLương cạnh tranh, thưởng, hiếu hỉ, theo đúng quy địnhTHỜI GIAN LÀM VIỆC:Thứ Hai – Thứ Sáu: 8:00 – 17:30Thứ Bảy cách tuần: 8:00 – 17:00Nghỉ trưa: 12:00 – 13:30",
+    "benefits": "Đóng BHXH, BHYT và Thuế thu nhập cá nhân theo đúng chính sách của nhà nướcChương trình Team building/ Company trip mỗi nămLương cạnh tranh, thưởng, hiếu hỉ, theo đúng quy địnhTHỜI GIAN LÀM VIỆC:Thứ Hai – Thứ Sáu: 8:00 – 17:30Thứ Bảy cách tuần: 8:00 – 17:00Nghỉ trưa: 12:00 – 13:30",
+    "date_posted": "2026-06-30",
+    "valid_through": "2026-08-04",
+    "url": "https://itviec.com/it-jobs/fullstack-developer-php-laravel-e-commerce-the-one-digi-corp-5303",
+    "source": "itviec"
+  },
+  {
+    "title": "Senior Java Developer Spring, Fintech",
+    "company": "UNIT Corp",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NzM1LCJwdXIiOiJibG9iX2lkIn19--fb04fd424a0dd1d79d9223c0c35bb6e20a4701e9/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/unit-corp-logo.png",
+    "location": [
+      {
+        "street": "374 Vo Van Tan Street",
+        "city": "Quận 3",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": 800,
+      "max": 1500,
+      "unit": "MONTH",
+      "text": "800 - 1,500 USD"
+    },
+    "skills": "Java, CI/CD, API, Spring Boot, Spring, SQL",
+    "employment_type": "FULL_TIME",
+    "experience_required": 37,
+    "description": "Top 3 Reasons To Join Us\r\nGreat working environment & culture\r\nCareer path progression programs with training\r\nOur employees are our number one asset\r\nThe JobDevelop, maintain, and enhance enterprise applications usingJava Spring Boot.Design, develop, and maintainRESTful APIsand backend services following Microservices architecture, ensuring scalability, reliability, and high performance.Participate in large-scale projects, preferably within theBanking, Financial Services, and Insurance (BFSI)domain.Analyze business requirements and propose technical solutions that align with project objectives.Work withSQL databasesfor data modeling, query optimization, and performance tuning.Collaborate closely with Business Analysts, QA Engineers, and cross-functional teams throughout the software development lifecycle.Troubleshoot, debug, optimize application performance, and resolve production issues.Write clean, maintainable, secure, and well-tested code while adhering to coding standards and best practices.Participate inCI/CDimplementation, application deployment, and production support.Report progress and technical issues to the line manager on a regular basis.Your Skills and ExperienceBachelor/ college’s degree in Computer Science, Information Technology or equivalent.Experience in Finance, Banking, and Insurance (BFSI), with a strong preference for Digital Banking, Mobile Banking, Internet Banking, Payment, and E-wallet solutions.4+ yearsof experience in Java software development.Strong experience withJava, Spring Boot, Microservices, and RESTful APIs.Hands-on experience withReactJS, Redux, JavaScript (ES6+).Experience withMessage Brokers(Kafka, RabbitMQ, or equivalent).Knowledge of application security standards (OWASP) and authentication/encryption mechanisms (JWT, RSA, SHA).Proficient in SQL(Oracle, MS SQL Server, PostgreSQL) for data modelling, querying, and performance optimization.Good knowledge of web/application containers (Apache Tomcat, JBoss, IBM WebSphere ...) and web/application deployment.Familiar withCI/CD,Docker,Kubernetes/OpenShift, and cloud-native application deployment.Strong knowledge of asynchronous programming, multithreading, and performance tuning (High CPU, Memory Leak, etc.).Experience withElasticSearch/ELK Stack.Able to work independently and collaboratively.Experience withCamundaorBPMN 2.0is highly preferred.Why You'll Love Working HereCompetitive salary and benefitsWorking time: 8:30AM - 05:30PM, Monday – Friday;12 days of annual leave + 3 days of sick leave + 1 day of birthday per yearParticipate in social insurance, unemployment insurance, health insurance, and other benefits in accordance with labor laws;13th month salary & bonus policies, allowances at the Company;UNIT-Care health care insurance by level;Salary increases according to company regulations or unexpected salary raise in case of outstanding ability;Professional and dynamic working environment, unlimited promotion opportunities;Opportunity to participate in many large projects in Vietnam & abroad;Work on the latest technology platform;Join in company trip, team-building & community activities.",
+    "benefits": "Competitive salary and benefitsWorking time: 8:30AM - 05:30PM, Monday – Friday;12 days of annual leave + 3 days of sick leave + 1 day of birthday per yearParticipate in social insurance, unemployment insurance, health insurance, and other benefits in accordance with labor laws;13th month salary & bonus policies, allowances at the Company;UNIT-Care health care insurance by level;Salary increases according to company regulations or unexpected salary raise in case of outstanding ability;Professional and dynamic working environment, unlimited promotion opportunities;Opportunity to participate in many large projects in Vietnam & abroad;Work on the latest technology platform;Join in company trip, team-building & community activities.",
+    "date_posted": "2026-07-07",
+    "valid_through": "2026-08-11",
+    "url": "https://itviec.com/it-jobs/senior-java-developer-spring-fintech-unit-corp-1142",
+    "source": "itviec"
+  },
+  {
+    "title": "Junior- Middle PHP WORDPRESS Developer",
+    "company": "IVC (ISB Vietnam)",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NTQ4LCJwdXIiOiJibG9iX2lkIn19--48fa16dfe2f44b393d0209c7d00d5d94e5ebbfca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/isb-vietnam-company-logo.jpg",
+    "location": [
+      {
+        "street": "Etown 2, 364 Cong Hoa",
+        "city": "Quận Tân Bình",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": 500,
+      "max": 1000,
+      "unit": "MONTH",
+      "text": "500 - 1,000 USD"
+    },
+    "skills": "Wordpress, Japanese, English, JavaScript, PHP, Fresher Accepted",
+    "employment_type": "FULL_TIME",
+    "experience_required": null,
+    "description": "Top 3 Reasons To Join Us\r\nPremium Healthcare package insurance\r\n13th month salary, Performance bonus\r\n16 days annual leave\r\nThe Job·  Develop and maintain website features usingPHP and the WordPressframework.·  Implement and maintain website functionalities based on marketing requirements.·  Write clean, well-documented, and maintainable code.·  Collaborate with designers and marketing team members to ensure the website meets business objectives and user needs.·  Ensure cross-browser compatibility and responsiveness of the website.·  Troubleshoot and resolve technical issues related to website functionality.·  Stay up-to-date with the latest web development technologies and best practicesYour Skills and Experience2-3 years of professional experience inPHP development (WordPressframework)Understanding ofHTML, CSS, and JavaScript.Experience with WordPress plugins and theme development.Good understanding of web development principles and best practices.Excellent communication and interpersonal skills.Good in English (written and spoken) for effective communication with international clients.Preferred Qualifications:Experience with front-end frameworks (e.g., React, Vue.js, Angular).Experience with version control systems (e.g., Git).Knowledge of SEO and website optimization.Experience working with Japanese customers or in a Japanese business environment is a plusWhy You'll Love Working Here-      Competitive salary and benefits including Premium Healthcare package insurance-      13th month salary, Performance bonus-      16 days annual leave-      Comprehensive Training Courses (Languages, Technical and Soft-skill)-      Language Certificate allowance (TOIEC and Japanese)-      Lunar New Year gifts-      Lunch and bus/ parking allowance-      Fun team activities and outings-      Sponsored happy hour and sport clubs-      Comfortable work space and friendly colleagues",
+    "benefits": "-      Competitive salary and benefits including Premium Healthcare package insurance-      13th month salary, Performance bonus-      16 days annual leave-      Comprehensive Training Courses (Languages, Technical and Soft-skill)-      Language Certificate allowance (TOIEC and Japanese)-      Lunar New Year gifts-      Lunch and bus/ parking allowance-      Fun team activities and outings-      Sponsored happy hour and sport clubs-      Comfortable work space and friendly colleagues",
+    "date_posted": "2026-07-07",
+    "valid_through": "2026-08-11",
+    "url": "https://itviec.com/it-jobs/junior-middle-php-wordpress-developer-ivc-isb-vietnam-5409",
+    "source": "itviec"
+  },
+  {
+    "title": "Junior  Middle Fullstack Developer Golang  Next.js",
+    "company": "IVC (ISB Vietnam)",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NTQ4LCJwdXIiOiJibG9iX2lkIn19--48fa16dfe2f44b393d0209c7d00d5d94e5ebbfca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/isb-vietnam-company-logo.jpg",
+    "location": [
+      {
+        "street": "Etown 2, 364 Cong Hoa",
+        "city": "Quận Tân Bình",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": 300,
+      "max": 1500,
+      "unit": "MONTH",
+      "text": "300 - 1,500 USD"
+    },
+    "skills": "Golang, English, PostgreSql, NextJS, Fresher Accepted",
+    "employment_type": "FULL_TIME",
+    "experience_required": null,
+    "description": "Top 3 Reasons To Join Us\r\nPremium Healthcare package insurance\r\n13th month salary, Performance bonus\r\n16 days annual leave\r\nThe JobJunior Fullstack DeveloperFocus:Learning, executing, and writing clean code under guidance.Develop and maintain features using Golang (backend) and Next.js (frontend).Write and maintain comprehensiveUnit Testsfor your own code.Containerize applications usingDockerfor local development.Collaborate with senior engineers to understand architectural patterns and best practices.Mid-Level Fullstack DeveloperFocus:Independent execution, feature ownership, and code quality.Design and implement high-performancegRPCandRESTful APIs.Optimize complexPostgreSQLqueries, indexing, and schema designs.Build scalable, SEO-friendly, and responsive frontend applications usingNext.js.Write robustUnit and Integration teststo ensure high test coverage and system reliability.Assist in maintaining and improvingGitLab CIpipelines and Docker configurations.Your Skills and ExperienceJunior:1–2 years of professional software development experience.Middle:3–5 years of experience with proven fullstack delivery.Proficient inGolang, with hands-on experience building bothRESTfulendpoints and high-performancegRPCservices.Strong command ofNext.js(React), TypeScript, HTML5, and CSS3.Proficiency inPostgreSQL(schema design, writing efficient raw queries, or working with ORMs like GORM/SQLX).A strict \"test-first\" or \"test-alongside\" mindset. Experience writing deterministicUnit testsis mandatory; experience withIntegration testsis highly preferred.Practical knowledge ofDockerfor creating consistent development and production environments.Why You'll Love Working Here-      Competitive salary and benefits including Premium Healthcare package insurance-      13th month salary, Performance bonus-      16 days annual leave-      Comprehensive Training Courses (Languages, Technical and Soft-skill)-      Language Certificate allowance (TOIEC and Japanese)-      Lunar New Year gifts-      Lunch and bus/ parking allowance-      Fun team activities and outings-      Sponsored happy hour and sport clubs-      Comfortable work space and friendly colleagues",
+    "benefits": "-      Competitive salary and benefits including Premium Healthcare package insurance-      13th month salary, Performance bonus-      16 days annual leave-      Comprehensive Training Courses (Languages, Technical and Soft-skill)-      Language Certificate allowance (TOIEC and Japanese)-      Lunar New Year gifts-      Lunch and bus/ parking allowance-      Fun team activities and outings-      Sponsored happy hour and sport clubs-      Comfortable work space and friendly colleagues",
+    "date_posted": "2026-07-06",
+    "valid_through": "2026-08-10",
+    "url": "https://itviec.com/it-jobs/junior-middle-fullstack-developer-golang-next-js-ivc-isb-vietnam-1334",
+    "source": "itviec"
+  },
+  {
+    "title": "Senior PHP Developer Laravel",
+    "company": "Asia Plus Inc.",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2OTEwLCJwdXIiOiJibG9iX2lkIn19--1d0b1d029f9124cb195544f4bbcd47d3e3d050d5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/asia-plus-inc-logo.jpg",
+    "location": [
+      {
+        "street": "6F 506 Nguyen Dinh Chieu Street",
+        "city": "Quận 3",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": 1400,
+      "max": 1700,
+      "unit": "MONTH",
+      "text": "1,400 - 1,700 USD"
+    },
+    "skills": "Laravel, JQuery, PHP, AI, NoSQL, MySQL",
+    "employment_type": "FULL_TIME",
+    "experience_required": 37,
+    "description": "Top 3 Reasons To Join Us\r\nReal Product – Real Impact\r\nGrowth & Ownership\r\n13th bonus\r\nThe JobWe are looking for a passionate Senior Laravel Developer with at least 5 years of experience to join our dynamic engineering team. We have adopted vibe coding as our core development process — AI coding agents now handle most of the hands-on implementation. Your role is to plan and architect: translating business requirements into clear technical specs, designing scalable system architecture, directing AI coding agents, and rigorously reviewing their output, while working closely with cross-functional teams to deliver high-quality digital products.Key Responsibilities· Analyze business requirements and translate them into clear technical specifications and task breakdowns that AI coding agents can execute.· Architect scalable, secure system designs and define coding standards and guardrails for AI-assisted (vibe coding) development.· Direct and prompt AI coding agents to implement features, then rigorously review and validate the generated code for correctness, security, and performance.· Plan and manage development tasks, sprints, and delivery timelines across the team.· Optimize database design and backend architecture for performance and scalability.· Identify and resolve complex performance, scalability, and integration issues that go beyond what AI agents can solve independently.· Establish and enforce engineering best practices (testing, source control, CI/CD, design patterns) within an AI-assisted development workflow.· Continuously evaluate new AI tools, agentic frameworks, and engineering practices to improve team productivity.Your Skills and ExperienceMust have· At least 5 years of experience with PHP & Laravel Framework, with a strong foundation in system design and software architecture· Strong understanding of MySQL, OOP, Design Patterns, and SOLID principles — solid enough to architect solutions and critically review code you didn’t write yourself.· Hands-on experience directing AI coding agents (e.g. Claude Code, GitHub Copilot, Cursor) in a vibe coding workflow — writing clear specs/prompts, orchestrating multi-step tasks, and validating AI-generated output.· Experience integrating AI using OpenAI APIs, LangChain, or vector databases.· Strong planning and project management skills — able to break down ambiguous requirements into clear, actionable tasks and manage delivery timelines.· Familiarity with HTML, CSS, JavaScript, Vue.js, Git, Docker, or CI/CD pipelines, and hands-on familiarity with AI coding agents/IDEs is a plus.· Strong critical-thinking and architect mindset — comfortable making trade-off decisions, devising effective solutions, and catching issues AI agents miss.· Good English communication skills (both written and spoken)Nice to have· Experience leading or mentoring a small engineering team.· Familiarity with Agile/Scrum or other project management methodologies.· Experience managing large-scale web services (B2B or B2C).· Familiarity with big-data tools or chatbot technologies.· Ability to view services from both business and engineering perspectives.· Maintain a proactive mindset, focusing on what can be done rather than why it can’t be done.Academic / Business· Bachelor’s or associate degree in Computer Science or a related field.· Ability to communicate in English (office communications are in English as CEO is from Japan)Why You'll Love Working Here·  Attractive salary·  13th month salary.·  Annual health check.·  Annual company trip.·  12 annual leave days (fully paid).·  Social insurance, health insurance, unemployment insurance based on full gross salary.·  Friendly, open, and collaborative working environment.·  Great opportunity to work with English-speaking developers and advance your career.Lets join and experience with us!",
+    "benefits": "·  Attractive salary·  13th month salary.·  Annual health check.·  Annual company trip.·  12 annual leave days (fully paid).·  Social insurance, health insurance, unemployment insurance based on full gross salary.·  Friendly, open, and collaborative working environment.·  Great opportunity to work with English-speaking developers and advance your career.Lets join and experience with us!",
+    "date_posted": "2026-07-06",
+    "valid_through": "2026-08-10",
+    "url": "https://itviec.com/it-jobs/senior-php-developer-laravel-asia-plus-inc-5441",
+    "source": "itviec"
+  },
+  {
+    "title": "Senior Fullstack Developer ReactJS, NodeJS, English",
+    "company": "NTQ Solution",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3MDMwLCJwdXIiOiJibG9iX2lkIn19--07dbe4242d05e866d34d0ab106189467cef5bf33/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/ntq-solution-logo.jpg",
+    "location": [
+      {
+        "street": "Tòa nhà Sông Đà, Đ. Phạm Hùng, Mỹ Đình, Nam Từ Liêm, Hà Nội",
+        "city": "Quận Nam Từ Liêm",
+        "region": "Hà Nội",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": 1500,
+      "max": 2000,
+      "unit": "MONTH",
+      "text": "1,500 - 2,000 USD"
+    },
+    "skills": "NodeJS, AWS, TypeScript, English, ReactJS",
+    "employment_type": "FULL_TIME",
+    "experience_required": 37,
+    "description": "Top 3 Reasons To Join Us\r\nCompetitive salary, performance-based raises\r\nStrong tech focus, many large-scale projects\r\nClear career path for employees\r\nThe JobLead the development of modern web applications usingReact, TypeScript, and Node.js.Architect and implement REST and GraphQL APIs for scalable backend services.Define the architecture and drive the use of AWS services (e.g., API Gateway, Lambda, IAM,Cognito, S3, DynamoDB, RDS, SQS, SNS).Prepare and document high-level technical design specifications, ensuring alignment with business goals.Architect backend services and APIs with high test coverage.Perform and automate API testing using tools like Postman, Bruno, or similar.Mentor team members in testing strategies and tools.Collaborate with stakeholders to understand business requirements and translate them into technical solutions.Act as a liaison between technical teams and business units, ensuring clear communication and expectations.Work collaboratively with project managers or Scrum Masters to prioritize tasks and allocate resources effectively.Establish and manage CICD pipelines and DevOps practices.Provide technical mentorship and guide team members on best practices.Oversee Agile workflows and ensure timely project delivery.Collaborate with stakeholders on solution design and technical strategy.Continuously improve system performance, scalability, and security.Your Skills and ExperienceMust haveFluent in English speakingExpertise injs, React, TypeScriptExtensive experience with Node.js and API development.Extensive experience with Serverless Framework or AWS SAM, including designing, deploying and optimizing serverless applications at scale.Profound knowledge of AWS cloud technology and services like API Gateway, Lambda, IAM,Cognito, S3, DynamoDB, RDS, SQS, SNSStrong background in architecture and solution design, with proven experience in preparing and documenting technical design specifications.Experience working with project managers or Scrum Masters for task prioritization and resource allocationNice to haveExperience with AWS Glue, Step Functions, EventBridge, and data pipelines.Advanced Python and Spark skills.Why You'll Love Working HereMức lương cạnh tranh, xem xét tăng lương dựa trên năng lực và hiệu quả công việc.Chương trình và chế độ ghi nhận đặc biệt cho nhân sự gắn bó lâu dàiChương trình NTQ Ranking giúp định hình lộ trình phát triển rõ ràng cho nhân sự khi gia nhậpĐược định hướng phát triển công nghệ chuyên sâu, tham gia nhiều dự án lớn và áp dụng công nghệ mới nhất.Cân bằng cuộc sống và công việc với các CLB ngoại khóa, hoạt động Teambuilding, nghỉ mát hàng năm, khu vực làm việc Open Space, Pantry và Board gameĐược đóng bảo hiểm theo quy định, kèm theo bảo hiểm sức khỏe cá nhân, bảo hiểm sức khỏe cho người thân, và chế độ thai sản tương đương 75% mức lương, khám sức khỏe 1 năm/1 lần.Văn hóa học tập & nghiên cứu: Hỗ trợ chi phí thi các chứng chỉ chuyên môn, tham gia các khóa học nội bộ up skills, khóa học phát triển lên quản lý cùng các chuyên gia có 15 năm kinh nghiệm trong lĩnh vực phần mềm.",
+    "benefits": "Mức lương cạnh tranh, xem xét tăng lương dựa trên năng lực và hiệu quả công việc.Chương trình và chế độ ghi nhận đặc biệt cho nhân sự gắn bó lâu dàiChương trình NTQ Ranking giúp định hình lộ trình phát triển rõ ràng cho nhân sự khi gia nhậpĐược định hướng phát triển công nghệ chuyên sâu, tham gia nhiều dự án lớn và áp dụng công nghệ mới nhất.Cân bằng cuộc sống và công việc với các CLB ngoại khóa, hoạt động Teambuilding, nghỉ mát hàng năm, khu vực làm việc Open Space, Pantry và Board gameĐược đóng bảo hiểm theo quy định, kèm theo bảo hiểm sức khỏe cá nhân, bảo hiểm sức khỏe cho người thân, và chế độ thai sản tương đương 75% mức lương, khám sức khỏe 1 năm/1 lần.Văn hóa học tập & nghiên cứu: Hỗ trợ chi phí thi các chứng chỉ chuyên môn, tham gia các khóa học nội bộ up skills, khóa học phát triển lên quản lý cùng các chuyên gia có 15 năm kinh nghiệm trong lĩnh vực phần mềm.",
+    "date_posted": "2026-07-06",
+    "valid_through": "2026-08-10",
+    "url": "https://itviec.com/it-jobs/senior-fullstack-developer-reactjs-nodejs-english-ntq-solution-0421",
+    "source": "itviec"
+  },
+  {
+    "title": "Android Developer Kotlin / MVVM ",
+    "company": "MEGAZONE",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ1NDY4LCJwdXIiOiJibG9iX2lkIn19--9fdcee605db7eaa4a5ec1088f3a79a0a362f42bf/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/megazone-viet-nam-logo.png",
+    "location": [
+      {
+        "street": "tầng 26, tòa nhà The West, 265 Cầu Giấy",
+        "city": "Quận Cầu Giấy",
+        "region": "Hà Nội",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": null,
+      "max": null,
+      "unit": "MONTH",
+      "text": "You'll love it"
+    },
+    "skills": "Android, MVVM, Figma, Kotlin",
+    "employment_type": "FULL_TIME",
+    "experience_required": 10,
+    "description": "Top 3 Reasons To Join Us\r\nProfessional working environment\r\nAttractive salary, yearly bonus & awesome benefits\r\nAdvanced learning & development opportunities\r\nThe JobDesign and develop Android applications following clean architecture principles (e.g. MVVM, MVI).Implement dependencies using DI frameworks such as Hilt or Dagger.Handle asynchronous programming and multithreading using Kotlin Coroutines and Flow.Work with Jetpack libraries, including Navigation and Jetpack Compose, to build scalable and modern UI.Analyze logs, identify root causes, and reproduce bugs for debugging and issue resolution.Collaborate with designers, product managers, and other developers to deliver high-quality features.Continuously learn and apply new technologies and best practices.Your Skills and ExperienceStrong understanding of Android application architecture (MVVM, MVI, etc.).Experience with dependency injection using Hilt or Dagger.Proficient in Kotlin, especially with Coroutines and Flow.Familiarity with Android Jetpack components: Navigation and Compose.Good debugging skills: Able to read logs, trace and reproduce bugs effectively.Self-driven, hardworking, and eager to learn.Nice to Have:Knowledge of Android Framework and experience working with AOSP (Android Open Source Project).Experience in Android Automotive development.Experience working with Figma for design handoff and UI collaboration.Why You'll Love Working Here***[BENEFITS] - What differentiate Absolute from other software companies in Vietnam:Product company with global reputation specialized in end-point securityVery attractive salary (Up to 2000$)Global standard working environment100% salary during probation period13th month salaryBirthday Bonus, New Year BonusSocial Insurance, health insurance, unemployment insurance on total salary after probation periodBao Viet Healthcare InsuranceHealth CheckTeam BuildingFlexible working hoursTraining & development opportunitiesLaptop and PC for everyone",
+    "benefits": "***[BENEFITS] - What differentiate Absolute from other software companies in Vietnam:Product company with global reputation specialized in end-point securityVery attractive salary (Up to 2000$)Global standard working environment100% salary during probation period13th month salaryBirthday Bonus, New Year BonusSocial Insurance, health insurance, unemployment insurance on total salary after probation periodBao Viet Healthcare InsuranceHealth CheckTeam BuildingFlexible working hoursTraining & development opportunitiesLaptop and PC for everyone",
+    "date_posted": "2026-07-06",
+    "valid_through": "2026-08-10",
+    "url": "https://itviec.com/it-jobs/android-developer-kotlin-mvvm-megazone-1133",
+    "source": "itviec"
+  },
+  {
+    "title": "Software Developer Fullstack  Robotics Simulation",
+    "company": "CÔNG TY CỔ PHẦN NGHIÊN CỨU PHÁT TRIỂN VÀ ỨNG DỤNG NGƯỜI MÁY ĐA NĂNG VINMOTION",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkwNzQ0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--30f00460b3d669f2e3ae8b5a3498f5498426d98a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo%20-%20Gradient%20-%201.png",
+    "location": [
+      {
+        "street": "Tòa nhà TechnoPark, khu đô thị Vinhomes OceanPark 1",
+        "city": "Huyện Gia Lâm",
+        "region": "Hà Nội",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": null,
+      "max": null,
+      "unit": "MONTH",
+      "text": "You'll love it"
+    },
+    "skills": "Python, JavaScript, C++, English",
+    "employment_type": "FULL_TIME",
+    "experience_required": 37,
+    "description": "Top 3 Reasons To Join Us\r\nCompetitive Compensation\r\nWorld-Class Team in Humanoid Robotics\r\nCutting-Edge Humanoid Robot Products\r\nThe JobPosition OverviewWe are seeking a highly capableSoftware Developer (Fullstack)to build and optimize simulation platforms, web applications, and software infrastructure supporting humanoid robot development.Key ResponsibilitiesDesign, develop, and maintain fullstack applications supporting humanoid robot development.Build web-based platforms for robot simulation, monitoring, visualization, and experiment management.Develop backend services and APIs for robotics workflows and simulation pipelines.Integrate with robotics simulation environments such as: Isaac Sim, MuJoCoOptimize software performance, scalability, and reliability for large-scale simulation workloads.Collaborate with AI and Robotics teams to translate research requirements into production-ready software solutions.Build tools for simulation data management, experiment tracking, and analytics.Improve system architecture and software engineering best practices across the robotics platform ecosystem.Your Skills and ExperienceRequirementsBachelor's degree in Computer Science, Software Engineering, Robotics, or a related field.Core Languages: Proficiency in C++ AND Python, Java (Hybrid architecture experience is highly preferred).Networking & Protocols: Strong experience in Socket Programming, specifically with UDP network bridges and WebSockets for real-time data streaming.Web 3D Graphics: Strong experience with React.js and modern state management libraries (e.g., Zustand, Redux, or Recoil) optimized for handling high-frequency, real-time data streaming; and WebGL, Three.js, or Python-based 3D visualization tools (e.g., Viser). Familiarity with Server-Side Rendering (SSR) and/or Client-side Rendering (CSR) and optimizing server-client channels for 3D scenes.Robotics (Plus): Experience with MuJoCo (MJCF/XML syntax), and optionally ROS 2.Data & Config: Familiarity with parsing runtime configurations (YAML) and handling high-density event logging formats (JSONL).Why You'll Love Working HereBe part of a groundbreaking team shaping the future of robotics and AI.Work in a dynamic, fast-paced environment with opportunities for growth.Competitive compensation and benefits package.",
+    "benefits": "Be part of a groundbreaking team shaping the future of robotics and AI.Work in a dynamic, fast-paced environment with opportunities for growth.Competitive compensation and benefits package.",
+    "date_posted": "2026-07-06",
+    "valid_through": "2026-08-10",
+    "url": "https://itviec.com/it-jobs/software-developer-fullstack-robotics-simulation-cong-ty-co-phan-nghien-cuu-phat-trien-va-ung-dung-nguoi-may-da-nang-vinmotion-0206",
+    "source": "itviec"
+  },
+  {
+    "title": "Java Developer Lead/Senior",
+    "company": "Capgemini Vietnam",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NzcwLCJwdXIiOiJibG9iX2lkIn19--b64c7e7749d6343faa318ff956e5f43d4db1d72f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/capgemini-vietnam-logo.jpg",
+    "location": [
+      {
+        "street": "106 Nguyen Van Troi",
+        "city": "Quận Phú Nhuận",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": null,
+      "max": null,
+      "unit": "MONTH",
+      "text": "You'll love it"
+    },
+    "skills": "Java, Spring Boot, Cloud, Spring, AWS",
+    "employment_type": "FULL_TIME",
+    "experience_required": 37,
+    "description": "Top 3 Reasons To Join Us\r\n\r\nThe JobAbout the Role/positionIn this role, you will a Java backend developer (Senior/Lead). You will help Java back-end team and work in project team with other sub-teams (front-end, mobile, DevOps, BA) and partner closely with our clients on a wide variety of collaborative and innovative engagements.One should be a phenomenal teammate with a forward-thinking mindset, ability and confidence to challenge the status quo to define future visions.Your Skills and ExperienceResponsibilities:Translate application User Stories into functional applicationsDesign, build, and maintain efficient, reusable, reliable, testable and secure Java codeDesign and build API following microservices principlesEnsure the best possible performance, quality, and responsiveness of the applicationsIdentify bottlenecks and bugs, and find solutions to fix issuesHelp team to maintain code quality, organization, and automatizationMust have Technical Requirements / QualificationsPrimary Skills:Language: Java, SQLFrameworks: SpringMVC, SpringBoot, Hibernate, Junit, MockitoAPI specification: Spectral, SwaggerJava API Security: Authentication, Authorization, common security standardsDatabase: SQL server, MariaDB, MySQL, PostgreSQLTools: Gradle, Maven, GIT, JIRA/ConfluenceAt least basic knowledge of AWS Cloud and deploymentSecondary Skills:Basic of advanced knowledge of an alternate cloud provider (AWS, GCP…)Kubernetes on one cloud providerCI/CD tools (Harness, Jenkins)BS/MS degree in Computer Science, Engineering or a related subjectGood English communication is a mustMinimum 6+ years of relevant experience primarily in Java backend developmentProficient in Java, with a good knowledge of its ecosystemsProficient in writing efficient, reusable, reliable, testable and secure Java codeExcellent in popular Java frameworks: Spring MVC, Spring Boot, HibernateFamiliarity with concepts of MVC, JDBC, and RESTful, micro serviceFamiliarity with security aspects of backend API: authentication, authorization, OAuth, OpenID, JWT, SAML, SSOObject Oriented analysis and design using common design patternsFamiliarity with common integration patterns: REST, Messaging, Streaming, SOAPKnowledge of concurrency patterns in JavaExcellent knowledge of Relational Databases, SQL and ORM technologies (JPA2, Hibernate)Proficient understanding of code versioning tools, such as GitFamiliarity with build tools such as Gradle, Maven, AntKnowledge of the business domains is a plus: Insurance (Life/Non-life), BankingExperience working in an agile team, practicing Scrum, KanbanGood communication skills, interpersonal and teamworking skillsPro-active and flexible working approachTeam-player with experience working with international and multi-functional teamsSelf-development skills to keep up to date with fast-changing trendsWhy You'll Love Working HereBenefitCompetitive salary, health insurance covered for employee and dependents.Working on international projects. Professional and dynamic working environmentAchieving valuable experience with variety projects, new technologies and hundreds of talentsReceiving training opportunities including many technical seminars and soft skill training coursesGood opportunity for promotion through regular performance review system.",
+    "benefits": "BenefitCompetitive salary, health insurance covered for employee and dependents.Working on international projects. Professional and dynamic working environmentAchieving valuable experience with variety projects, new technologies and hundreds of talentsReceiving training opportunities including many technical seminars and soft skill training coursesGood opportunity for promotion through regular performance review system.",
+    "date_posted": "2026-06-29",
+    "valid_through": "2026-08-03",
+    "url": "https://itviec.com/it-jobs/java-developer-lead-senior-capgemini-vietnam-3943",
+    "source": "itviec"
+  },
+  {
+    "title": "Game server developer C++, MySQL",
+    "company": "Công ty TNHH Công Nghệ Tamron Việt Nam",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM2ODg3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--4b47fa44cd4ca2c48ba51e6e8aa58a9e39c0dfb6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screenshot%202025-07-09%20133700.png",
+    "location": [
+      {
+        "street": "11 Nguyễn Huy Tưởng",
+        "city": "Quận Bình Thạnh",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": null,
+      "max": null,
+      "unit": "MONTH",
+      "text": "You'll love it"
+    },
+    "skills": "C++, Windows Server, SQL, MySQL, C language, Games",
+    "employment_type": "FULL_TIME",
+    "experience_required": 37,
+    "description": "Top 3 Reasons To Join Us\r\n\r\nThe JobThiết kế và phát triển các mô-đun cốt lõi phía server của trò chơi, bao gồm logic game, hệ thống chiến đấu, hệ thống xã hội,...Xây dựng và tối ưu hóa kiến trúc truyền thông mạng phía server, đảm bảo hoạt động ổn định trong điều kiện người chơi đồng thời caoHợp tác chặt chẽ với các nhóm client, thiết kế và đồ họa để triển khai tính năng và cập nhật phiên bảnTham gia xử lý sự cố và tối ưu hiệu suất server, đảm bảo an toàn, ổn định và khả năng mở rộng của hệ thốngViết tài liệu kỹ thuật, cải thiện chất lượng mã nguồn và hiệu suất phát triển phía serverYour Skills and Experience1. Thành thạo ngôn ngữ lập trình C/C++, có thói quen viết mã sạch và tư duy thiết kế hướng đối tượng tốt2. Nắm vững cấu trúc dữ liệu, thuật toán phổ biến và lập trình tổng quát với STL3. Thành thạo lập trình mạng phía server, hiểu rõ mô hình IOCP , lập trình Socket,...4. Sử dụng thành thạo cơ sở dữ liệu SQL Server, có khả năng viết truy vấn SQL hiệu quả và tối ưu hiệu suất5. Có tư duy logic tốt, kỹ năng giao tiếp và làm việc nhóm hiệu quả6. Có tinh thần trách nhiệm cao, đam mê phát triển gameWhy You'll Love Working HerePhúc lợi:Lương:20M – 50Mtùy năng lực và kinh nghiệmMôi Trường Làm Việc:Văn phòng riêng, môi trường trẻ năng động, thân thiện, vui vẻChế độ: BHXH, BHYT... theo quy định Pháp luậtTham gia Team Buildings, thưởng lễ tết, nghỉ lễ... theo quy địnhCơ hội thăng tiến cao trong công việcThời gian làm việc: 9:30 am -17:30 pm Nghỉ trưa 1 giờ; Thứ 7 làm cách tuần",
+    "benefits": "Phúc lợi:Lương:20M – 50Mtùy năng lực và kinh nghiệmMôi Trường Làm Việc:Văn phòng riêng, môi trường trẻ năng động, thân thiện, vui vẻChế độ: BHXH, BHYT... theo quy định Pháp luậtTham gia Team Buildings, thưởng lễ tết, nghỉ lễ... theo quy địnhCơ hội thăng tiến cao trong công việcThời gian làm việc: 9:30 am -17:30 pm Nghỉ trưa 1 giờ; Thứ 7 làm cách tuần",
+    "date_posted": "2026-07-04",
+    "valid_through": "2026-08-08",
+    "url": "https://itviec.com/it-jobs/game-server-developer-c-mysql-cong-ty-tnhh-cong-nghe-tamron-viet-nam-5031",
+    "source": "itviec"
+  },
+  {
+    "title": "Mid/Sr iOS Developer - English required",
+    "company": "Rakuten Fintech Vietnam Co., Ltd.",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk4OTY4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--c7828e9bce6a12f7c1984e4be351df993b97f346/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo-t-shirt-FRONT.png",
+    "location": [
+      {
+        "street": "24th-25th Floor, A&B Tower, 76A Le Lai Street, Ben Thanh Ward",
+        "city": "Quận 1",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": null,
+      "max": null,
+      "unit": "MONTH",
+      "text": "Up to $3200"
+    },
+    "skills": "iOS, Web API, UI-UX, Swift, SQL",
+    "employment_type": "FULL_TIME",
+    "experience_required": 10,
+    "description": "Top 3 Reasons To Join Us\r\nAttractive Salary and Benefits\r\nWorking & growing with Passionate & Talented Team\r\nAward: MVP for excellent Department/members\r\nThe JobRakuten FinTech Vietnam Co., Ltd.is the company, which was established in 2021, and the subsidiary of Rakuten Card, which is one of the biggest credit card company in Japan. Our mission is to develop internal system and mission-critical system for Rakuten Card and FinTech group companies to contribute to FinTech business growth, also to provide attractive environment for talented engineers in both Vietnam and Japan.Job DescriptionAs an iOS Developer, you will be responsible for the full lifecycle of mobile application development for our FinTech services. You will design, develop, test, and deploy robust, user-friendly, and secure iOS applications that serve millions of users.Responsibilities:Lead development activities for iOS mobile applicationsfor our FinTech services, ensuring high quality, performance, and adherence to best practices using Swift.Conduct solution research and implementation studiesfor new mobile application features and proof-of-concepts (POCs), evaluating technical feasibility and proposing optimal solutions.Drive the improvement and enhancement of automated testing strategiesincluding unit, integration, and UI tests (e.g., XCTest), to ensure high code quality and reliability.Propose and implement various technical improvementsfor our services within the iOS ecosystem, focusing on architecture, performance, and user experience.Actively contribute to the proposition of new functions and services, translating business requirements into technical solutions.Collaborate closely with product owners, UI/UX designers, and backend teamsto define requirements, integrate APIs, and ensure seamless end-to-end functionality.Participate in code reviews, providing constructive feedback and ensuring adherence to coding standards and best practices.Ensure compliance with security best practicesfor mobile application development in a FinTech environment.Your Skills and ExperienceMust have:At least 5+ years of professional experiencein iOS application development using Swift.Proven experience consuming Web APIsfor mobile application development.Intermediate-level in English communication(B2 or equivalent), capable of technical discussions.Strong knowledge of source control systems(e.g., Git) and defect tracking tools.Solid experience with Agile development methodologies(Scrum, Kanban).Good knowledge of databases and SQL, with experience integrating mobile apps with backend databases.Must be independent, responsible, and self-motivated, with a proven ability to learn quickly and achieve superior results.Strong communication skills, with proven ability to present complex ideas and document technical solutions clearly and concisely.Experience with unit testing frameworks(e.g., XCTest) and writing testable code.Familiarity with UI/UX design toolsand collaboration with designers (e.g.,Figma, Sketch, Zeplin).Nice to have:Experience with automated testing tools (e.g., Appium, XCUITest).Experience with building large-scale, enterprise-level mobile projects.Understanding of microservices architecture and cloud computing concepts.Experience with CI/CD pipelines for mobile apps.Experience in the FinTech domain.Experience with TestRails or similar test management tools.Experience with Android development is a plus.Why You'll Love Working HereCommuting AllowancesMeal AllowancesPerformance BonusTet Bonus (Annual Bonus)Salary reviewHealth checkupPremium Health careCompany TripAnnual Leave*Benefits might be updated to add on, please let us know if you want to know more.",
+    "benefits": "Commuting AllowancesMeal AllowancesPerformance BonusTet Bonus (Annual Bonus)Salary reviewHealth checkupPremium Health careCompany TripAnnual Leave*Benefits might be updated to add on, please let us know if you want to know more.",
+    "date_posted": "2026-07-04",
+    "valid_through": "2026-08-08",
+    "url": "https://itviec.com/it-jobs/mid-sr-ios-developer-english-required-rakuten-fintech-vietnam-co-ltd-3013",
+    "source": "itviec"
+  },
+  {
+    "title": "Java Developer Middle - Senior ",
+    "company": "SoftRoad Việt Nam",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMzNTE3NywicHVyIjoiYmxvYl9pZCJ9fQ==--2fd9ff93f2f05e07c801d621998b06cfbc080955/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/softroad%20-%20Tung%20Lam%20Nguyen.jpg",
+    "location": [
+      {
+        "street": "14th floor, Richy Tower, No 35 Mac Thai To, Yen Hoa ward, Cau Giay district, Ha Noi.",
+        "city": "Quận Cầu Giấy",
+        "region": "Hà Nội",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": 1000,
+      "max": 1800,
+      "unit": "MONTH",
+      "text": "1,000 - 1,800 USD"
+    },
+    "skills": "Java, MySQL, Spring, English, COBOL",
+    "employment_type": "FULL_TIME",
+    "experience_required": 37,
+    "description": "Top 3 Reasons To Join Us\r\nMultinational working environment\r\nAttractive salary\r\nTop 1 System Reform professional company in Japan\r\nThe JobTham gia phân tích yêu cầu, thiết kế, phát triển và bảo trì hệ thống sử dụng Java.Phát triển các ứng dụng và nền tảng trên Java/Spring Framework.Tham gia xây dựng, nâng cấp và tối ưu các hệ thống doanh nghiệp và hệ thống chuyển đổi công nghệ.Phân tích, cải tiến source code nhằm nâng cao hiệu năng và khả năng mở rộng của hệ thống.Thiết kế và tối ưu cơ sở dữ liệu, xử lý dữ liệu và luồng dữ liệu trong hệ thống.Coding, debugging, unit testing và xử lý các vấn đề kỹ thuật phát sinh.Nghiên cứu và ứng dụng các công nghệ mới nhằm tự động hóa và nâng cao chất lượng sản phẩm.Phối hợp với PM và các thành viên trong nhóm để đảm bảo tiến độ và chất lượng dự án.Your Skills and ExperienceTừ 3 năm kinh nghiệm phát triển phần mềm bằng Java.Kiến thức tốt về Java Core: cấu trúc dữ liệu (Data Structure), quản lý bộ nhớ (Memory Management), đa luồng (Multithreading),...Nắm vững Spring Core: IoC, DI, Bean,... và hiểu rõ các framework của Spring như: Spring Boot, Spring MVC, Spring Batch, Spring AOP,...Có kiến thức về các Design Pattern.Có kinh nghiệm làm việc với kiến trúc module của Spring.Có kinh nghiệm sử dụng công cụ quản lý build Maven.Có kinh nghiệm làm việc với cơ sở dữ liệu MySQL, MongoDB và Oracle.Có kinh nghiệm làm việc với MyBatis là một lợi thế.Có kinh nghiệm build và triển khai (deploy) dự án Java là một lợi thế.Có kiến thức cơ bản về Front-end: HTML, CSS, JavaScript, Thymeleaf, JSP; biết sử dụng một số framework như Vue.js, Angular là một lợi thế.Có kiến thức cơ bản về: RabbitMQ, Redis, Docker, Kubernetes (K8s), CI/CD và Jenkins.Có khả năng giao tiếp bằng tiếng Anh hoặc tiếng Nhật là lợi thế.Why You'll Love Working HereMức lương cạnh tranh: lên đến 45 triệu grossLương tháng 13Thưởng hiệu suất, thưởng chất lượng dự án, thưởng lợi nhuận,…Có cơ hội trở thành một phần của đội ngũ Leadership trẻ của công ty.Có cơ hội onsite/công tác tại các chi nhánh của công ty ở nước ngoài như Nhật Bản, Trung Quốc, Mỹ.Các khóa đào tạo: đào tạo kỹ năng kỹ thuật, tiếng Anh, tiếng Nhật, v.v.Hoạt động nội bộ năng động: company trip, teambuilding, sinh nhật hằng tháng.Khám sức khỏe định kỳ hằng năm tại bệnh viện uy tín.",
+    "benefits": "Mức lương cạnh tranh: lên đến 45 triệu grossLương tháng 13Thưởng hiệu suất, thưởng chất lượng dự án, thưởng lợi nhuận,…Có cơ hội trở thành một phần của đội ngũ Leadership trẻ của công ty.Có cơ hội onsite/công tác tại các chi nhánh của công ty ở nước ngoài như Nhật Bản, Trung Quốc, Mỹ.Các khóa đào tạo: đào tạo kỹ năng kỹ thuật, tiếng Anh, tiếng Nhật, v.v.Hoạt động nội bộ năng động: company trip, teambuilding, sinh nhật hằng tháng.Khám sức khỏe định kỳ hằng năm tại bệnh viện uy tín.",
+    "date_posted": "2026-07-03",
+    "valid_through": "2026-08-07",
+    "url": "https://itviec.com/it-jobs/java-developer-middle-senior-softroad-viet-nam-1525",
+    "source": "itviec"
+  },
+  {
+    "title": "Middle Angular Developer ",
+    "company": "Saigon Technology",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAwNjk2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f7fd4d23ae84636765bef5b23ea1e067dec481e2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Black%20(3).png",
+    "location": [
+      {
+        "street": "Block B & A2, 5th Floor, ICT1 Building, Software Park No. 2, Nhu Nguyet Street",
+        "city": "Quận Hải Châu",
+        "region": "Đà Nẵng",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": null,
+      "max": null,
+      "unit": "MONTH",
+      "text": "You'll love it"
+    },
+    "skills": "Angular, Agile, Git, HTML5, CSS, JavaScript",
+    "employment_type": "FULL_TIME",
+    "experience_required": 37,
+    "description": "Top 3 Reasons To Join Us\r\nAttractive salary, benefits, hybrid working\r\nTechnical training sessions (internal – external) \r\nPVI Healthcare insurance\r\nThe JobWork directly with clients to clarify requirementsBuild UI components for maximum performance and reusabilityWrite clean and maintainable code that follows modern programming principlesWork and collaborate with the rest of the engineering teamLeverage open source and other technologies and languages outside of the framework should the need ariseProvide technical support and training to colleagues on various aspectsYour Skills and ExperienceMUST HAVEStandard knowledge of JavaScript, CSS, HTML5At least 2 years of component development expertise with Angular 2+Experience developing highly interactive applicationsGood at English communicationExperience with GIT source control, Agile processNICE TO HAVEHave experience in Nginx or Nodemon, GraphQLAngular UniversalWhy You'll Love Working HereCompetitive Salary and Brilliant Health BenefitsAttractive salary (13th-month salary, salary review twice/year) and project bonusBonus programs for candidate referral, technical article writingAllowance for sickness, maternity, paternity and periodic health examinationPVI health care programThe staff of the quarter and year rewardProgressive and Fun Working EnvironmentA professional English-speaking working environment with Agile – Scrum modelHybrid Working Model: Flexible working time and WFH support.Surrounded with friendly, open-minded, young and supportive colleaguesAnnual company trip and regular team-building parties, party celebration (Christmas, Birthday, Mid-autumn,...), Sports clubs (football, badminton, swimming …)Valuable TrainingSponsor examination fee for professional certificates (AWS, Azure, IELTS, PMP, Scrum Master,...)Sponsor fee for joining any technical training sessions and courses.Free English workshops",
+    "benefits": "Competitive Salary and Brilliant Health BenefitsAttractive salary (13th-month salary, salary review twice/year) and project bonusBonus programs for candidate referral, technical article writingAllowance for sickness, maternity, paternity and periodic health examinationPVI health care programThe staff of the quarter and year rewardProgressive and Fun Working EnvironmentA professional English-speaking working environment with Agile – Scrum modelHybrid Working Model: Flexible working time and WFH support.Surrounded with friendly, open-minded, young and supportive colleaguesAnnual company trip and regular team-building parties, party celebration (Christmas, Birthday, Mid-autumn,...), Sports clubs (football, badminton, swimming …)Valuable TrainingSponsor examination fee for professional certificates (AWS, Azure, IELTS, PMP, Scrum Master,...)Sponsor fee for joining any technical training sessions and courses.Free English workshops",
+    "date_posted": "2026-07-03",
+    "valid_through": "2026-08-07",
+    "url": "https://itviec.com/it-jobs/middle-angular-developer-saigon-technology-2146",
+    "source": "itviec"
+  },
+  {
+    "title": "ABAP Developer/SAP Technical ConsultantShift-rotation",
+    "company": "Laidon Group",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM3NDgzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--343e75fc1f3a6382af6604507953520c5cb9fb66/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/unnamed.jpg",
+    "location": [
+      {
+        "street": "324 Le Van Sy",
+        "city": "Quận Tân Bình",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": null,
+      "max": null,
+      "unit": "MONTH",
+      "text": "You'll love it"
+    },
+    "skills": "ABAP, SQL, English, Cloud, OOP, SAP",
+    "employment_type": "FULL_TIME",
+    "experience_required": 10,
+    "description": "Top 3 Reasons To Join Us\r\n\r\nThe JobWe are looking for a talented and experienced ABAP developer to join our team. The ideal candidate will have experience in ABAP Workbench Tools, ABAP dictionary, ABAP editor, function builder, and transactions, ABAP dictionary, BAPI, RFC, BDC, and Enhancements. As this role involves working directly with our global clients, the successful candidate must havegood English communication skillsand be able to participate in arotating shift schedulethat includesUS timezones.Responsibilities:Work with Technical lead, Consultant and PM to design technical solutions and develop ABAP programsProvide direct technical support and communicate effectively with global clients in English.Participate in a rotating shift schedule (including US-timezone night shifts) to ensure uninterrupted service for our clients.Take full responsibility for SAP development (code, unit test, deploy, resolve Production issues)Research and apply latest SAP Technical to projects (SAP BTP, CDS, Odata, Integration Suites…)Involve in the full module of SAP from Production, Sales, Inventory, FI/CO , etc.Work on data migration from SAP to Other Application.Follow strictly SAP development guidelines.Expand the scope of work according to business development requirements.Your Skills and ExperienceWillingness and flexibility to work rotating shifts, including night shiftsGood English proficiency (written and verbal) to effectively support and collaborate with international clientsBachelor's Degree in information technology, or equivalent experience1+ Years of SAP ABAP experienceTechnical knowledge in CDS, OOP, Fiori, UI5 and ODataExperience in ABAP Workbench Tools, ABAP dictionary, ABAP editor, function builder, and transactions, ABAP dictionary, BAPI, RFC, BDC, EnhancementsS/4HANA experience is a nice to haveNice to have hands-on experience building custom Fiori apps and UI screen designHave experience in working with foreign customers is a plusHave the ability to work independentlyGood at English is a plusOpportunities to experience and work in SAP latest technology (latest S4 systems, S4 public cloud, SAP BTP, Integration Suites…)Why You'll Love Working Here15 days of annual leavesCompetitive salary (+13-month salary include)Health insurance, social insurance according to the government regulationsBao Viet Healthcare InsuranceHave a chance to work in an international, friendly, open environmentAnnual Travel opportunity",
+    "benefits": "15 days of annual leavesCompetitive salary (+13-month salary include)Health insurance, social insurance according to the government regulationsBao Viet Healthcare InsuranceHave a chance to work in an international, friendly, open environmentAnnual Travel opportunity",
+    "date_posted": "2026-06-18",
+    "valid_through": "2026-07-23",
+    "url": "https://itviec.com/it-jobs/abap-developer-sap-technical-consultant-shift-rotation-laidon-group-0346",
+    "source": "itviec"
+  },
+  {
+    "title": "Senior C++ Developer C++11, Algorithms, Linux",
+    "company": "ITviec Recruitment Consulting",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg5OTkzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--a6543d306293819ea2f1a6e0636a7b12b5ccc2c7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20ITViec%20Recruitment%20Consulting%20(1).png",
+    "location": [
+      {
+        "street": "City",
+        "city": "Not Available",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": 2000,
+      "max": 2500,
+      "unit": "MONTH",
+      "text": "2,000 - 2,500 USD"
+    },
+    "skills": "C++, English, Python, Algorithms, Linux",
+    "employment_type": "FULL_TIME",
+    "experience_required": 37,
+    "description": "Top 3 Reasons To Join Us\r\n\r\nThe JobContribute to the development and enhancement of the platform to meet high performance and scalability requirementsParticipate in the multi-year initiative to upgrade and expand the platform’s capabilities for future growthAssist users in resolving technical challenges encountered while using the backtesting / simulation softwareDiagnoses and troubleshoot issues related to the performance and throughput of the platformProvide technical support and guidance to ensure optimal use of the platform by thousands of usersCommunicate effectively with stakeholders to understand their needs and provide appropriate technical solutionsDocument and share knowledge on best practices and solutions for common technical issues encountered by usersWork closely with quantitative researchers and other technical teams to ensure seamless integration and operation of the platformContinuously monitor and analyze platform performance to identify areas for improvement and optimizationYour Skills and ExperienceMust-have:5+ yearsof production-qualityC++ development, preferably onLinuxStrong knowledge ofLinux system programming, memory management, and multithreadingDeep understanding ofdata structures, algorithms, high-performance application design, and concurrency patternsSelf-motivated, proactive, and able to work independentlyProficiency inEnglishfor technical communication and documentationNice to have:Experience withPythonfor scripting, prototyping, or tool supportKnowledge ofdistributed systemsor large-scale system architectureExperience withgraph data processingorstreaming/dataflow systemsFamiliarity withquantitative finance platforms, back-testing, or simulation frameworksWhy You'll Love Working HereWork Environment & Culture:Engage with a youthful, dynamic team working on awesome projects applying cutting-edge technologies.Gain global exposure by working alongside international specialists, providing a fantastic opportunity to expand your skill set.A transparent, honest, and respectful culture that empowers individuals to reach their full potential.Compensation & Health Benefits:13th-month salary and highly attractive performance-based bonuses.Premium accident and healthcare insurance plans, plus comprehensive annual health check-ups.Allowances & Facilities:Allowances for lunch, free parking, and life events (marriage, newborn baby, bereavement, etc.).A spacious, fully equipped pantry (microwave, fridge, coffee maker, etc.) for your most comfortable lunch breaks.Engagement & Recognition:Diverse sports clubs and social activities (Badminton, Football, Yoga, Tech clubs).Annual company teambuilding trips.Engaging monthly internal events: Happy Gatherings, Mini Games, Team Birthdays, Year-End Party, etc.Quarterly and yearly awards recognizing outstanding individuals, teams, and long-term dedication.Advanced English and soft skill training programs to assist your career development.Exclusive perk:Unique internal company supporting funds to help ease personal financial goals (Home, Vehicle, Tuition loans, etc.).",
+    "benefits": "Work Environment & Culture:Engage with a youthful, dynamic team working on awesome projects applying cutting-edge technologies.Gain global exposure by working alongside international specialists, providing a fantastic opportunity to expand your skill set.A transparent, honest, and respectful culture that empowers individuals to reach their full potential.Compensation & Health Benefits:13th-month salary and highly attractive performance-based bonuses.Premium accident and healthcare insurance plans, plus comprehensive annual health check-ups.Allowances & Facilities:Allowances for lunch, free parking, and life events (marriage, newborn baby, bereavement, etc.).A spacious, fully equipped pantry (microwave, fridge, coffee maker, etc.) for your most comfortable lunch breaks.Engagement & Recognition:Diverse sports clubs and social activities (Badminton, Football, Yoga, Tech clubs).Annual company teambuilding trips.Engaging monthly internal events: Happy Gatherings, Mini Games, Team Birthdays, Year-End Party, etc.Quarterly and yearly awards recognizing outstanding individuals, teams, and long-term dedication.Advanced English and soft skill training programs to assist your career development.Exclusive perk:Unique internal company supporting funds to help ease personal financial goals (Home, Vehicle, Tuition loans, etc.).",
+    "date_posted": "2026-07-03",
+    "valid_through": "2026-08-07",
+    "url": "https://itviec.com/it-jobs/senior-c-developer-c-11-algorithms-linux-itviec-recruitment-consulting-2633",
+    "source": "itviec"
+  },
+  {
+    "title": "Software Developer Fresher/Junior, Good English",
+    "company": "Netcompany",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMwODcwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--e958ac94df2f4cfcd8254e0f8d6406342fe60de3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/netcompany-logotype-dark-green-RGB%204.png",
+    "location": [
+      {
+        "street": "Floors 24-25-26-27-29-31, Opal Tower. 92 Nguyen Huu Canh Street",
+        "city": "Quận Bình Thạnh",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": null,
+      "max": null,
+      "unit": "MONTH",
+      "text": "You'll love it"
+    },
+    "skills": ".NET, Java, C#, English, Fresher Accepted",
+    "employment_type": "FULL_TIME",
+    "experience_required": null,
+    "description": "Top 3 Reasons To Join Us\r\nFully sponsored trips in Europe by Netcompany\r\nInternational working environment\r\nClear career path and established process\r\nThe JobAbout the roleYou will get the chance to work on different programming languages and technologies as this will vary from project to project. A large part of our projects uses technologies likeAngularJS, Sass, React and Node.js on Java and .NET.Besides that, we work with SharePoint, Microsoft Dynamics CRM, Salesforce, Microsoft SQL-Server, Sitecore, Oracle and Weblogic to name just a few.We are looking for ambitious graduates to join us on a permanent basis to drive forward our delivery capability and deliver the optimum solutions to our clients in Europe. You will join our strong and dedicated team based in Ho Chi Minh City, where you will have the opportunity to work with some of the most skilled IT consultants in Vietnam and our technically skilled employees in Europe.Job DescriptionAnalyze and understand business and technical requirements and work with clients across different domains and industries.Produce high-quality design deliverables that describes how the solution will accommodate business and technical requirements.Design, develop, and maintain efficient, reusable, and reliable code using best practices.Conduct continuous unit and manual testing and deliver high quality solutions.Identify bottlenecks and bugs, and devise solutions to troubleshoot and address issues.Work and collaborate in an agile international environment with experienced and skilled colleagues in Vietnam and Europe.Plan and organize your own work and accurately report issues and progress in a timely manner.Identify areas for own personal development.Your Skills and ExperienceBachelor or Master degreewithin a relevant IT specialization.Good English skills both in writing and communication.Basic understanding of and practical experience withobject-oriented programminganddata modelling.Familiar with various design, architectural patterns and modern system development.Open towards and able to quickly learn new technologies.Ability to work both independently and collaboratively as part of an international team.Professional pro-active attitude, taking responsibility and initiative.Effectively estimate work and produce deliverables on time.Recruitment process:- Phone Screening (English Proficiency Test):Once your application is reviewed and meets the qualifications, the Recruitment Team will reach out to you via phone for a discussion. Please note, you may receive a call from an unknown number after submitting your application.- In-person Interview (Conducted in English, 2 Hours):The interview will take place at our office and will be conducted entirely in English. The session will be divided into two parts: Introduction Round & Technical RoundWhy You'll Love Working Here13th-month salary bonusfor all employees, with additional rewards upon promotion to Senior levelFully sponsored seminar trips in Europeby Netcompany for all levels, offering an opportunity to enhance your skills and strengthen collaboration across countriesClear Academy system and mentoring program to help you develop your career within NetcompanyPerformance appraisal twice a year to guarantee constructive feedbackProfessional Scandinavian working environment that values innovation, creativity and new ideas along with being supportive, fun and flexibleAdvanced technical solutions, agile culture and the opportunity to work with the latest technologiesAttractive salary that is adjusted annually based on your performanceAttractive Healthcare insurance program for you and your family.24/7 Mental Wellbeing Companion Program to help you overcome challenges and crisis in your life and work.Various training on trending technologies, best practices, and soft skillsManagement and leadership are accessible and encourage input from employeesWorking with a variety of clients and colleagues all over the worldSocial and sports activities hosted by Netcompany After Dark (Friday bar, go-kart, BBQ, escape room, football, badminton, table tennis etc.)In Netcompany we believe that a diverse and inclusive workplace is central to our success, which is why all qualified candidates are invited to apply regardless of gender, sexual orientation, disability, age, religion and belief, ethnic background, nationality, gender identity or culture. We are committed to live out a culture where we provide equal opportunities for all.",
+    "benefits": "13th-month salary bonusfor all employees, with additional rewards upon promotion to Senior levelFully sponsored seminar trips in Europeby Netcompany for all levels, offering an opportunity to enhance your skills and strengthen collaboration across countriesClear Academy system and mentoring program to help you develop your career within NetcompanyPerformance appraisal twice a year to guarantee constructive feedbackProfessional Scandinavian working environment that values innovation, creativity and new ideas along with being supportive, fun and flexibleAdvanced technical solutions, agile culture and the opportunity to work with the latest technologiesAttractive salary that is adjusted annually based on your performanceAttractive Healthcare insurance program for you and your family.24/7 Mental Wellbeing Companion Program to help you overcome challenges and crisis in your life and work.Various training on trending technologies, best practices, and soft skillsManagement and leadership are accessible and encourage input from employeesWorking with a variety of clients and colleagues all over the worldSocial and sports activities hosted by Netcompany After Dark (Friday bar, go-kart, BBQ, escape room, football, badminton, table tennis etc.)In Netcompany we believe that a diverse and inclusive workplace is central to our success, which is why all qualified candidates are invited to apply regardless of gender, sexual orientation, disability, age, religion and belief, ethnic background, nationality, gender identity or culture. We are committed to live out a culture where we provide equal opportunities for all.",
+    "date_posted": "2026-07-03",
+    "valid_through": "2026-08-07",
+    "url": "https://itviec.com/it-jobs/software-developer-fresher-junior-good-english-netcompany-3413",
+    "source": "itviec"
+  },
+  {
+    "title": "Frontend ReactJS Developer",
+    "company": "LG CNS Việt Nam",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc3MTIzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--79414bdba1830df263fbf0fe3fbf7127abc83386/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Annotation%202025-02-14%20172858.jpg",
+    "location": [
+      {
+        "street": "Tầng 15, tòa Keangnam Landmark 72, Mễ Trì",
+        "city": "Quận Nam Từ Liêm",
+        "region": "Hà Nội",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": null,
+      "max": null,
+      "unit": "MONTH",
+      "text": "You'll love it"
+    },
+    "skills": "ReactJS, JavaScript",
+    "employment_type": "FULL_TIME",
+    "experience_required": 10,
+    "description": "Top 3 Reasons To Join Us\r\nSalary and bonus based on ability\r\n Young and fun working environment \r\nOpportunities to study and work abroad.\r\nThe JobParticipate in the projects focused on software development and innovative solution design.Develop and implement responsive, high-quality frontend interfaces using ReactJS and modern web technologies.Collaborate on requirements analysis and contribute to UI/UX design discussions to ensure optimal user experience.Ensure the quality, performance, and maintainability of your code through best practices and testing.Your Skills and Experience[Required]Bachelor degree in Computer Science, Software Engineering, or related field.4+ years of experience in web application development.Strong experience with ReactJS and modern frontend frameworks.Ability to develop using HTML, CSS, JavaScript, and jQuery.Experience with collaboration tools such as Git, Jira, and Confluence.Average English communication skills for team collaboration.[Preferred]Experience with other SPA frameworks (Vue, Angular) and TypeScript.Hybrid app development experience.Why You'll Love Working HereBest remuneration: Periodically review and adjust salary once a year, PI bonus twice a. Allowances for lunch, transportation, and phone charges. Party with the team once a. Workshop travel for the whole company once a year. Bonuses/Gifts for holidays, International Labor Day, International Women's Day, etc.High-class, modern office: 5-star standard office with modern equipment, large rest and entertainment areas (game area, karaoke room, reading room, cafe counter, snack bar, etc.) Meet all members' needs, especially the office has an airy and beautiful view that is among the most beautiful in Hanoi.Top equipment: Each employee is equipped with the latest generation LG Gram laptop and modern large LG screen.Best working time: Work 8 hours/day (8:00 ~ 17:00), from Monday to Friday. No pressure to work overtime/weekends!Flexible, youthful working style: LG CNS Vietnam members are mostly from the 9-10x generation, with a youthful, modern, and fair working style.Creative environment, valuing individual opinions: With a young and talented team, we always appreciate the creativity and suggestions that members make.Opportunities to work/study in Korea and abroad: With customers and projects mostly from abroad, your opportunities for training and onsite abroad will always be open!Other: Happy hours every Friday, Team outing monthly, join clubs like football, badminton, etc...",
+    "benefits": "Best remuneration: Periodically review and adjust salary once a year, PI bonus twice a. Allowances for lunch, transportation, and phone charges. Party with the team once a. Workshop travel for the whole company once a year. Bonuses/Gifts for holidays, International Labor Day, International Women's Day, etc.High-class, modern office: 5-star standard office with modern equipment, large rest and entertainment areas (game area, karaoke room, reading room, cafe counter, snack bar, etc.) Meet all members' needs, especially the office has an airy and beautiful view that is among the most beautiful in Hanoi.Top equipment: Each employee is equipped with the latest generation LG Gram laptop and modern large LG screen.Best working time: Work 8 hours/day (8:00 ~ 17:00), from Monday to Friday. No pressure to work overtime/weekends!Flexible, youthful working style: LG CNS Vietnam members are mostly from the 9-10x generation, with a youthful, modern, and fair working style.Creative environment, valuing individual opinions: With a young and talented team, we always appreciate the creativity and suggestions that members make.Opportunities to work/study in Korea and abroad: With customers and projects mostly from abroad, your opportunities for training and onsite abroad will always be open!Other: Happy hours every Friday, Team outing monthly, join clubs like football, badminton, etc...",
+    "date_posted": "2026-07-03",
+    "valid_through": "2026-08-07",
+    "url": "https://itviec.com/it-jobs/frontend-reactjs-developer-lg-cns-viet-nam-0422",
+    "source": "itviec"
+  },
+  {
+    "title": "Fresher Developer  , Can Tho, ",
+    "company": "SystemEXE Việt Nam ",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM3NjU5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ebcd4749ffeb542e1c488b398583a5b2b84d3d98/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/systemexe_logo_viet_color_pos.png",
+    "location": [
+      {
+        "street": "Tầng 9, Toà nhà Nam Á Bank, Số 10 Quang Trung, Khu vực 09",
+        "city": "Not Available",
+        "region": null,
+        "country": "VN"
+      },
+      {
+        "street": "Số 773 Ngô Quyền",
+        "city": "Quận Sơn Trà",
+        "region": "Đà Nẵng",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": null,
+      "max": null,
+      "unit": "MONTH",
+      "text": "10,000,000"
+    },
+    "skills": "OOP, Java, .NET, PHP, Fresher Accepted",
+    "employment_type": "FULL_TIME",
+    "experience_required": null,
+    "description": "Top 3 Reasons To Join Us\r\nChỉ học, chưa làm, nhận Gross 10,000,000 VNĐ/tháng\r\nĐào tạo kiến thức chuyên môn và kỹ năng mềm\r\nKý hợp đồng chính thức sau 2 tháng đào tạo\r\nThe Job- Được học và tham gia vào chương trình đào tạo Fresher do chính đội ngũ hơn 100 kỹ sư lập trình, quản lý dự án, chuyên gia đào tạo giàu kinh nghiệm xây dựng và đã triển khai thành công rực rỡ qua 7 mùa tuyển dụng.- Chỉ sau 2 tháng đào tạo tại SystemEXE dưới hình thức On Job Training (OJT), bạn sẽ được hoàn thiện các kỹ năng lập trình cũng như kỹ năng mềm:Về kỹ năng lập trình: Nắm được kỹ năng lập trình cũng như kỹ năng kiểm thử phần mềm, công cụ quản lý dự án, thực tiễn hóa lý thuyết qua các dự án thực tế.Về kỹ năng mềm: Được chuyên gia hướng dẫn về tác phong làm việc, cách hành xử chuyên nghiệp của người đi làm và các kỹ năng mềm cần thiết.Trực tiếp tham gia các dự án chiến lược và có cơ hội trở thành lập trình viên chính thức tại SystemEXE Việt Nam.- Nơi đào tạo: Tầng 2, Tòa nhà Etown1 -Số 364 Cộng Hòa, Phường Tân Bình, TP.HCM- Nơi làm việc: VP Cần Thơ/ VP Đà Nẵng/ VP HCM- Thời gian làm việc: Từ thứ 2 đến thứ 6 (từ 08:00 đến 17:00)Your Skills and Experience- Có thể tham gia đào tạo/làm việc fulltime từ thứ 2 - thứ 6- Chuẩn bị tốt nghiệp Đại học hoặc mới tốt nghiệp dưới 1 năm chuyên ngành CNTT hoặc các chuyên ngành có liên quan- Nhanh nhẹn, cẩn thận, ham học hỏi, có tinh thần trách nhiệm cao- Ưu tiên ứng viên có thành tích học tập tốt, ứng viên biết tiếng Nhật/tiếng Anh là lợi thế- Ưu tiên ứng viên có tham gia các hoạt động xã hội, cộng đồng- Hạn nộp hồ sơ: 26/07/2026-Form đăng ký ứng tuyển sẽ được gửi qua emailWhy You'll Love Working Here- Trong quá trình đào tạo:Chỉ học, chưa làm, nhận trợ cấp đào tạo: Gross 10,000,000 VNĐ/thángHỗ trợ phụ cấp trong thời gian đào tạoKhông chỉ được đào tạo kỹ năng lập trình, mà còn được đào tạo kỹ năng mềm cần thiết cho công việcĐược trau dồi các kỹ năng về Công Nghệ qua các dự án thực tếKý hợp đồng chính thức sau 2 tháng đào tạo nếu bạn có kết quả đào tạo tốt (không cần thử việc)Được tham gia team building, tiệc công ty hàng tháng- Sau khi kí hợp đồng chính thức:Thưởng hè, lương tháng 13, thưởng theo lợi nhuận vào cuối năm,...Được tham gia đầy đủ BHXH, BHYT, BHTN 100% lương cơ bảnĐược tham gia chương trình bảo hiểm sức khỏe12 ngày phép + 1 ngày nghỉ sinh nhậtPhụ cấp xăng xe, gửi xeGiải thưởng thường xuyên: Giải thưởng nỗ lực, giải thưởng nhân viên xuất sắc, nhân viên triển vọng, thưởng dự án thành công,...Du lịch thường niên, teambuilding tổ chức định kỳTham gia tiệc Công ty hàng thángKhám sức khỏe định kỳ hàng nămTham gia các khóa học đào tạo về lập trình trong và ngoài Công tyHỗ trợ thi chứng chỉ và thưởng khi đạt được chứng chỉ- Hành trình để trở thành thành viên của nhà SystemEXE1. Tham gia Talkshow và Test2. Phỏng vấn face to face3. Tham gia chương trình đào tạo",
+    "benefits": "- Trong quá trình đào tạo:Chỉ học, chưa làm, nhận trợ cấp đào tạo: Gross 10,000,000 VNĐ/thángHỗ trợ phụ cấp trong thời gian đào tạoKhông chỉ được đào tạo kỹ năng lập trình, mà còn được đào tạo kỹ năng mềm cần thiết cho công việcĐược trau dồi các kỹ năng về Công Nghệ qua các dự án thực tếKý hợp đồng chính thức sau 2 tháng đào tạo nếu bạn có kết quả đào tạo tốt (không cần thử việc)Được tham gia team building, tiệc công ty hàng tháng- Sau khi kí hợp đồng chính thức:Thưởng hè, lương tháng 13, thưởng theo lợi nhuận vào cuối năm,...Được tham gia đầy đủ BHXH, BHYT, BHTN 100% lương cơ bảnĐược tham gia chương trình bảo hiểm sức khỏe12 ngày phép + 1 ngày nghỉ sinh nhậtPhụ cấp xăng xe, gửi xeGiải thưởng thường xuyên: Giải thưởng nỗ lực, giải thưởng nhân viên xuất sắc, nhân viên triển vọng, thưởng dự án thành công,...Du lịch thường niên, teambuilding tổ chức định kỳTham gia tiệc Công ty hàng thángKhám sức khỏe định kỳ hàng nămTham gia các khóa học đào tạo về lập trình trong và ngoài Công tyHỗ trợ thi chứng chỉ và thưởng khi đạt được chứng chỉ- Hành trình để trở thành thành viên của nhà SystemEXE1. Tham gia Talkshow và Test2. Phỏng vấn face to face3. Tham gia chương trình đào tạo",
+    "date_posted": "2026-07-03",
+    "valid_through": "2026-08-07",
+    "url": "https://itviec.com/it-jobs/fresher-developer-hcm-can-tho-da-nang-systemexe-viet-nam-2358",
+    "source": "itviec"
+  },
+  {
+    "title": "HYBRID WORKING - Backend Developer Python",
+    "company": "Elisoft",
+    "company_logo": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA2NDM5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--17304464e579a8c9b79765ab9fc9001317b368d2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/elisoft-logo.png",
+    "location": [
+      {
+        "street": "Elinext Building, 37A Phan Xich Long, Ward 3",
+        "city": "Quận Phú Nhuận",
+        "region": "Hồ Chí Minh",
+        "country": "VN"
+      }
+    ],
+    "salary": {
+      "currency": "USD",
+      "min": 2200,
+      "max": 2500,
+      "unit": "MONTH",
+      "text": "2,200 - 2,500 USD"
+    },
+    "skills": "Python, Kubernetes, Docker, FastAPI, Django, English",
+    "employment_type": "FULL_TIME",
+    "experience_required": 37,
+    "description": "Top 3 Reasons To Join Us\r\nHybrid working mode\r\nPremium health insurance, annual health checkup\r\nFree English courses\r\nThe JobJOB DESCRIPTION:- Write structured, clean, reusable, and testable code using Python.- Design and implement robust applications.- Develop and maintain high-performance systems.- Provide technical solutions.- Translate client requirements into properly structured server-side logic.- Test own code and peer-review output from other teammates.Your Skills and Experience- Commercial working experience withPython 5+ years- Experience with modern web frameworks (FastAPI/Flask, Django), databases (PostgreSQL), Message Queues (Celery/Redis, RabbitMQ)- General understanding of CI/CD- Excellent knowledge of general programming issues: design patterns, data structures, algorithms- Experience in the design and development of complex, highly-loaded systems- Good knowledge of Linux- Experience with Docker, K8s- Ability to take responsibility, initiative, and pay attention to details- English speaking at an advanced level or above- Ability to collaborate on projects and work independently when requiredWhy You'll Love Working HereWe're always looking for candidates with talent and we know choosing a place is also so difficult for you. Therefore, let us give you some extra reasons to join us:Numerous opportunities forpersonal and professional growth.Competitive salary, bonuses, and allowances.13th-month salary.Performance reviewsonce per year.Social & health insurance, annual leave, and working conditions are compliant with Vietnamese labor laws.Flexible working hoursand modern working processes.Free in-house coffeeandEnglish courses.Annual health check-up.Friendly, young, and dynamic teamwith regular fun activities: Football club, birthday parties, happy hours, team building events, company trips, year-end party, and more.To have a look at the Company’s social life, please visit here:",
+    "benefits": "We're always looking for candidates with talent and we know choosing a place is also so difficult for you. Therefore, let us give you some extra reasons to join us:Numerous opportunities forpersonal and professional growth.Competitive salary, bonuses, and allowances.13th-month salary.Performance reviewsonce per year.Social & health insurance, annual leave, and working conditions are compliant with Vietnamese labor laws.Flexible working hoursand modern working processes.Free in-house coffeeandEnglish courses.Annual health check-up.Friendly, young, and dynamic teamwith regular fun activities: Football club, birthday parties, happy hours, team building events, company trips, year-end party, and more.To have a look at the Company’s social life, please visit here:",
+    "date_posted": "2026-07-02",
+    "valid_through": "2026-08-06",
+    "url": "https://itviec.com/it-jobs/hybrid-working-backend-developer-python-elisoft-5039",
+    "source": "itviec"
+  }
+]

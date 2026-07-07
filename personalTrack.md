@@ -1,5 +1,8 @@
 # Personal Learning Track
 
+## 2026-07-07
+- Crawled ITviec job listings and preprocessed the data to extract key information.
+
 ## 2026-07-06 
 - Setting up orcale 
 - Go to the hospital
