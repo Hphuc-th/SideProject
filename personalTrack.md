@@ -1,5 +1,7 @@
 # Personal Learning Track
 ## 2026-07-08 
+- Use Ollama to extract key information from job descriptions and benefits 
+## 2026-07-08 
 - Continue extract addtional information from ITviet 
 - Learn english 
 

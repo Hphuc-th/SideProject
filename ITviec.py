@@ -53,6 +53,13 @@ Job description:
 """
 
 try:
+    from qwen_parser import parse_with_qwen
+    QWEN_AVAILABLE = True
+except ImportError:
+    parse_with_qwen = None
+    QWEN_AVAILABLE = False
+
+try:
     from database import get_posting, close_db
     DB_AVAILABLE = True
 except ImportError:
@@ -191,12 +198,24 @@ def main():
     for i, url in enumerate(urls, 1):
         job = get_job_details(url, crawl_time=crawl_time)
         if job:
+            parsed = None
             if GEMINI_AVAILABLE:
                 parsed = parse_description(job.get("description", ""))
                 if parsed:
-                    job["parsed"] = parsed
+                    print(f"  Gemini: parse OK")
                 else:
                     print(f"  Gemini: parse failed")
+            if not parsed and QWEN_AVAILABLE:
+                parsed = parse_with_qwen(
+                    job.get("description", ""),
+                    benefits_text=job.get("benefits", "")
+                )
+                if parsed:
+                    print(f"  Qwen: parse OK")
+                else:
+                    print(f"  Qwen: parse failed")
+            if parsed:
+                job["parsed"] = parsed
             results.append(job)
             if posting is not None:
                 try:
