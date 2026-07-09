@@ -1,4 +1,7 @@
 # Personal Learning Track
+## 2026-07-08 
+- Continue extract addtional information from ITviet 
+- Learn english 
 
 ## 2026-07-07
 - Crawled ITviec job listings and preprocessed the data to extract key information.
