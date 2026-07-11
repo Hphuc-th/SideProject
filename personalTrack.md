@@ -1,5 +1,10 @@
 # Personal Learning Track
-## 2026-07-08 
+
+## 2026-07-11
+- learn to create question sentences or suggest sentence 
+## 2026-07-10
+- Practice english 
+## 2026-07-09 
 - Use Ollama to extract key information from job descriptions and benefits 
 ## 2026-07-08 
 - Continue extract addtional information from ITviet 
