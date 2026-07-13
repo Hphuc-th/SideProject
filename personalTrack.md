@@ -1,5 +1,7 @@
 # Personal Learning Track
 
+## 2026-07-12
+- Listening to english 
 ## 2026-07-11
 - learn to create question sentences or suggest sentence 
 ## 2026-07-10
