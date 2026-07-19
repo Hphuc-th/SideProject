@@ -1,5 +1,29 @@
 # Personal Learning Track
 
+### 2026-07-19
+- Go to the english club for talking to foreigners and other learners : can hear but convey what i want smoothly 
+- Complete preprocess data and loading them to the silver data. 
+
+### 2026-07-18
+- Continue to preprocess data. 
+- Loading cleaned data into the next data layer (silver layer)
+- Writting an essay in english 
+
+### 2026-07-17 
+- Remove unwanted space in data 
+- Standalize and normalize data 
+- Derived new columns from existing columns.
+
+### 2026-07-16 
+- Create a procedure to load raw data ( csv files ) into MSSS. 
+- Create a procedure to check the completeness of data after loading.
+- Check the time for each stage of loading to check the bottle neck
+
+### 2026-07-13 to 2026-07-15
+- Learn about the process of building a datawarehouse. 
+- Learn the difference between : datawarehouse , data lake, data lakehouse , data mesh 
+- Hearing to english 
+
 ## 2026-07-12
 - Went to the beach.
 - Watched movies in English.
@@ -17,16 +41,11 @@
 
 ## 2026-07-09
 - Used Ollama to extract key information from job descriptions and benefits by converting text into JSON containing essential information such as required skills, frameworks, and specific benefits.
-- Implemented an LLM pipeline with automatic fallback: using Gemini's free-tier models by default and switching to a local Ollama model when the API quota was exceeded.
+- Using Gemini's free-tier models by default and switching to a local Ollama model when the API quota was exceeded.
 - Designed detailed prompts with JSON schema, field-level rules, and edge case handling for structured LLM output.
-- Sanitized LLM output before JSON parsing.
-- Implemented retry logic (max_retries=2) with timeout handling for LLM API calls.
-- Truncated long descriptions to 6000 chars to fit LLM context windows.
 - Added graceful degradation: availability flags (GEMINI_AVAILABLE, QWEN_AVAILABLE, DB_AVAILABLE) so the program works without any LLM or database.
 
 ## 2026-07-08
-
-- Extracted description and benefits from raw HTML with BeautifulSoup get_text().
 - Extracted nested location data from jobLocation.address (street, city, region, country).
 - Used Playwright to automate ITviec searches and inspect the network requests made by the website and extracted cookies from browser context for later use in automated requests.
 - Handled networkidle timeout with try/except and fallback continuation.
@@ -36,22 +55,20 @@
 - Used cloudscraper to bypass Cloudflare anti-bot protection on ITviec.
 - Extracted job data from JSON-LD embedded in <script type="application/ld+json"> tags.
 - Implemented pagination crawling: loop with page parameter, detect rel="next" link to stop, time.sleep(2) between requests for politeness.
-- Parsed salary data safely with try/except (TypeError, ValueError) when converting to float.
 - Cleaned HTML description/benefits with BeautifulSoup get_text(separator="\n", strip=True).
-- Normalized skills list by splitting on comma, stripping whitespace.
 
 ## 2026-07-06
 - Went to the hospital.
 - Practiced English.
 - Researched coroutines and tasks in Python: https://docs.python.org/3/library/asyncio-task.html#coroutine.
-- Implemented async logging with QueueHandler/QueueListener (producer-consumer pattern) to avoid blocking the main thread on disk I/O.
+- Implemented async logging with QueueHandler/QueueListener
 
 ## 2026-07-05
 - Attended my friend's engagement ceremony and wedding all day.
 - Rested after a long trip.
 
 ## 2026-07-04
-- Listened to BBC World Service, podcasts, and watched movies—basically anything that caught my attention—in English.
+- Listened to BBC World Service, podcasts, and watched movies in English.
 - Set up Oracle.
 - Solved three LeetCode problems to review PL/SQL.
 
@@ -81,22 +98,20 @@
 
 ## 2026-06-28
 - Prepared for my thesis presentation.
-- Prepared the presentation slides and script.
 - Completed all documents related to my thesis.
 
 ## 2026-06-27
 - Connected Python to MySQL using **SQLAlchemy**.
 - Wrote basic ORM models to create tables and define columns with specific data types.
 - Used a client library to send requests with headers and an access token.
-- Used SQLAlchemy 2.x modern ORM style: DeclarativeBase, Mapped, mapped_column with type annotations, and | None for nullable columns.
+
 
 ## 2026-06-26
 - Set up a Python virtual environment to manage backend libraries in isolation.
 - Connected the backend to MongoDB using **PyMongo**.
+- Configured a direct connection to a standalone MongoDB server using PyMongo and set `serverSelectionTimeoutMS` to control how long the client waits before reporting that the server is unavailable.
 - Built initial Flask API endpoints to query the MongoDB database, using request parameters for filtering.
-- Configured MongoDB connection with serverSelectionTimeoutMS=2000 and directConnection=true for stability.
-- Used json.dumps(..., ensure_ascii=False) to preserve Vietnamese characters when saving to file.
-- Used Pathlib for file I/O (Path("file").write_text(...)) instead of open/write.
+- Used Pathlib for file operation 
 
 ## General
 - Practiced ETL pipeline design: Extract (crawl with cloudscraper/Playwright) → Transform (parse JSON-LD, clean HTML with BS4) → Load (MongoDB upsert + JSON file), with optional LLM enrichment step.
