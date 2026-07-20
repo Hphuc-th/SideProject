@@ -1,5 +1,11 @@
 # Personal Learning Track
 
+### 2026-07-20
+- Learned Linux fundamentals and common command-line commands.
+- Practiced technical interview questions.
+- Analyzed data with SQL queries to understand business logic.
+- Created derived columns by calculating values from existing columns.
+
 ### 2026-07-19
 - Go to the english club for talking to foreigners and other learners : can hear but convey what i want smoothly 
 - Complete preprocess data and loading them to the silver data. 
