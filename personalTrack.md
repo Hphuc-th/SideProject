@@ -1,5 +1,10 @@
 # Personal Learning Track
 
+### 2026-07-21
+- Spin up Docker container for pet project.
+- Build DW star schema: Implement customer_dim, product_dim, sale_dim, and the core fact table.
+- Compile a Q&A sheet for expected interview questions
+
 ### 2026-07-20
 - Learned Linux fundamentals and common command-line commands.
 - Practiced technical interview questions.
